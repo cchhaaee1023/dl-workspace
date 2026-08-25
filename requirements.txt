@@ -1,10 +1,12 @@
+--index-url https://download.pytorch.org/whl/cpu
+--extra-index-url https://pypi.org/simple
+
+streamlit
+ultralytics
+opencv-python-headless
+streamlit-webrtc
+av
+numpy<2
 torch
 torchvision
-streamlit
-streamlit-drawable-canvas
-numpy
-matplotlib
-pillow
-scipy
-scikit-image
-opencv-python-headless
+setuptools
