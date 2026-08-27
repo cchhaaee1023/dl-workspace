@@ -5,3 +5,4 @@ data/cifar-10-python.tar.gz
 data/
 *.pth
 saved_models/
+venv-camera/
